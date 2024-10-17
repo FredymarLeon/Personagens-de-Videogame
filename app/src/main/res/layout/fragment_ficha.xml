@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82B2"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/textViewNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_ficha"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textViewRaca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/raca_ficha"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewClasse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/classe_ficha"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewPoder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poder_ficha"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/textViewVidaEterna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/possui_vida_eterna_ficha"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="5dp"/>
+
+</LinearLayout>

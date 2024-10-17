@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Criar Personagens de Videogame</string>
+
+    <string name="nome_do_personagem">Nome do Personagem</string>
+    <string name="raca">Raça:</string>
+    <string name="humano">Humano</string>
+    <string name="anjo">Anjo</string>
+    <string name="demonio">Demonio</string>
+    <string name="classe">Classe:</string>
+    <string name="protetor">Protetor</string>
+    <string name="destrutor">Destrutor</string>
+    <string name="lider">Líder</string>
+    <string name="poder">Poder</string>
+    <string name="possui_vida_eterna">Possui vida eterna?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="nome_ficha">Nome:</string>
+    <string name="raca_ficha">Raça:</string>
+    <string name="classe_ficha">Classe:</string>
+    <string name="poder_ficha">Poder:</string>
+    <string name="possui_vida_eterna_ficha">Possui Vida Eterna?:</string>
 </resources>
